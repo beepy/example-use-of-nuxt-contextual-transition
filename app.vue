@@ -16,7 +16,7 @@
       </div>
     </div>
   </NuxtLayout>
-  <a class="github-fork-ribbon" href="https://github.com/beepy/example-use-of-vue-contextual-transition" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a>
+  <a class="github-fork-ribbon" href="https://github.com/beepy/example-use-of-nuxt-contextual-transition" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a>
 </template>
 
 <script setup>
